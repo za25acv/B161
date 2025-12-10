@@ -2,7 +2,7 @@
 This is a group assignment.
 
 commit a1b2c3d
-Author: Affaz Ahmad <affazofficial@gmail.com>
+Author: Affaz Ahmad <aa25amv@herts.ac.uk>
 Date:   2025-12-6 10:00:00 +0500
 R code done 
 
@@ -13,7 +13,7 @@ Date:   2025-12-7 12:00:00 +0500
     Implemented Chi-square test and results visualization
     
 commit h7i8j9k
-Author: David Ajeibi <daviduk@gmail.com>
+Author: David Ajeibi <ajeibidavid@gmail.com>
 Date:   2025-12-9 15:00:00 +0500
 
     Referencing Done
@@ -24,7 +24,7 @@ Date:   2025-12-9 15:00:00 +0500
 
     Compiled final report and in tegrated graphs  
     commit 
-Author: Ajay <Ajay512@gmail.com>
+Author: Ajay <za25acv@herts.ac.uk>
 Date:   2025-12-9 15:00:00 +0500
 
     formatting profread done
