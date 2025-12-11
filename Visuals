@@ -1,0 +1,16 @@
+3.	Visualisation
+3.1 Appropriate Graphs for the RQ
+3.1.1 Proportion Bar Plot
+ 
+Figure 1 proportion of employees leaving by gender R Script output
+The proportion of employees leaving or staying in each gender is shown in bar plot which is our main plot. The plot gives us a glance at the gender with the largest number of leaving employees and this is the direct answer to the RQ.
+3.1.2 Contingency Table (Additional Plot)
+Gender 	Stayed	Left
+Male	2062	716
+Female	991	884
+Table 1 Contingency Table
+The proportions in the bar plot are supported by the precise counts given by the table.	
+3.1.3 Scatter Plot
+ 
+Figure 2 scatter plot (R script output)
+
