@@ -1,11 +1,11 @@
 RQ: difference in the proportion of employees who leave the company between males and females.
 
 Members: 
- Ajay
- Jenin jaban harry
- RAHUL BINGI
- David Ajeibi
- Affaz Ahmad khan
+ 1. Ajay
+ 2. Jenin jaban harry
+ 3. RAHUL BINGI
+ 4. David Ajeibi
+ 5. Affaz Ahmad khan
 
 	Null hypothesis and alternative hypothesis (H0/H1) 
 
